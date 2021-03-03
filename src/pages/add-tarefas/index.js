@@ -12,7 +12,7 @@ import Axios from 'axios';
 
 export default function addTarefas({navigation}) {
 
-    const api = 'http://192.168.15.8/apitarefas/';
+    const api = 'http://192.168.0.100/apitarefas/';
 
     const [strData, setStrData] = useState('DATA TAREFA');
     const [strHora, setStrHora] = useState('HORA TAREFA');

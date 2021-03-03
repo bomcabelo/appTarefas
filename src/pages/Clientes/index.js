@@ -16,7 +16,7 @@ import Axios from 'axios';
 export default function Clientes({navigation}) {
 
    
-  const api = 'http://192.168.15.8/apitarefas/';
+  const api = 'http://192.168.0.100/apitarefas/';
 
   
   const [valor, setValor] = useState('1');
