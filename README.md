@@ -1,7 +1,7 @@
 # Criando o Projeto
 1 - Instalar o Node JS
 2 - Instalar o expo   npm install expo-cli --global
-3 - Criar o Aplicativo   expo init meuApp  
+3 - Criar o Aplicativo   expo init meuApp
 4 - npm install expo
 5 - Rodar o APP  expo start
 
